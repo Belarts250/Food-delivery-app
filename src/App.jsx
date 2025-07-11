@@ -5,7 +5,7 @@ import Cart from './pages/cart/Cart.jsx'
 import Home from './pages/home/Home.jsx'
 import Footer from './components/Footer/footer.jsx'
 import { useState } from 'react'
-import LOginPopUp from './components/LoginPopUP/LOginPopUp.jsx'
+import LOginPopUp from './components/LoginPopUP/LoginPopUp.jsx'
 
 
 function App() {
